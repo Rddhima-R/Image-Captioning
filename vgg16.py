@@ -50,7 +50,7 @@ def VGG16(include_top=True, weights='imagenet',
     convention used by the model is the one
     specified in your Keras config file.
 
-    # Arguments
+    # arguments
         include_top: whether to include the 3 fully-connected
             layers at the top of the network.
         weights: one of `None` (random initialization)
